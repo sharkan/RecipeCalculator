@@ -1,0 +1,11 @@
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.exe
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Entity.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Services.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Util.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Entity.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Services.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.Util.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\obj\Debug\RecipeCalculator.UI.csprojResolveAssemblyReference.cache
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\obj\Debug\RecipeCalculator.exe
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\obj\Debug\RecipeCalculator.pdb

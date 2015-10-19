@@ -1,0 +1,7 @@
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\bin\Release\RecipeCalculator.Util.Test.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\bin\Release\RecipeCalculator.Util.Test.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\bin\Release\RecipeCalculator.Util.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\bin\Release\RecipeCalculator.Util.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\obj\Release\RecipeCalculator.Util.Test.csprojResolveAssemblyReference.cache
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\obj\Release\RecipeCalculator.Util.Test.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util.Test\obj\Release\RecipeCalculator.Util.Test.pdb

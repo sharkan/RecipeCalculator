@@ -1,0 +1,7 @@
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Release\ingredients.csv
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Release\recipe.csv
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Release\RecipeCalculator.DB.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Release\RecipeCalculator.DB.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\obj\Release\RecipeCalculator.DB.csprojResolveAssemblyReference.cache
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\obj\Release\RecipeCalculator.DB.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\obj\Release\RecipeCalculator.DB.pdb

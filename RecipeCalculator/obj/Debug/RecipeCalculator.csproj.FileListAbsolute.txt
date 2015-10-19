@@ -1,0 +1,1 @@
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator\bin\Debug\RecipeCalculator.exe.config

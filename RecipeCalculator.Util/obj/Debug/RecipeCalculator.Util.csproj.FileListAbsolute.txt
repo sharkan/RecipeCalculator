@@ -1,0 +1,4 @@
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util\bin\Debug\RecipeCalculator.Util.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util\bin\Debug\RecipeCalculator.Util.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util\obj\Debug\RecipeCalculator.Util.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Util\obj\Debug\RecipeCalculator.Util.pdb

@@ -1,0 +1,6 @@
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Debug\ingredients.csv
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Debug\recipe.csv
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Debug\RecipeCalculator.DB.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\bin\Debug\RecipeCalculator.DB.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\obj\Debug\RecipeCalculator.DB.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.DB\obj\Debug\RecipeCalculator.DB.pdb

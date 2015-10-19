@@ -1,0 +1,11 @@
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Services.Test.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Services.Test.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Entity.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Services.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Util.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Entity.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Services.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\bin\Release\RecipeCalculator.Util.pdb
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\obj\Release\RecipeCalculator.Services.Test.csprojResolveAssemblyReference.cache
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\obj\Release\RecipeCalculator.Services.Test.dll
+C:\Users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Services.Test\obj\Release\RecipeCalculator.Services.Test.pdb

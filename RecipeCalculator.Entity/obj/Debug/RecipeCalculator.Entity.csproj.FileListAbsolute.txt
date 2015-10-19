@@ -1,0 +1,4 @@
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Entity\bin\Debug\RecipeCalculator.Entity.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Entity\bin\Debug\RecipeCalculator.Entity.pdb
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Entity\obj\Debug\RecipeCalculator.Entity.dll
+c:\users\amoraret\documents\visual studio 2013\Projects\RecipeCalculator\RecipeCalculator.Entity\obj\Debug\RecipeCalculator.Entity.pdb
